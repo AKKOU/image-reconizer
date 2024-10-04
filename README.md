@@ -8,7 +8,7 @@
 ### Yml File Download (over 100MB, Github file limit):
 
 #### Mixed version:
-- [Mixed Version](https://akkkou.com/download/Lai.yml)
+- [Mixed Version](https://mega.nz/file/J5gnzJTZ#bLoBQgjM-lUv9nwG9dv1HE6mwz51mJvf9gG89X2FdYI)
 
 #### Individual person:
 - [Ching-te Lai (474 MB)](https://mega.nz/file/Y84D2IoL#jgVmVBxwCWaoca2TjbbC9IFMOrTb1gQJASwSyB3SOSw)
