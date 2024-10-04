@@ -3,12 +3,18 @@ import numpy as np
 import mss
 import mss.tools
 import os
+import json
 
 detector = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 recog = cv2.face.LBPHFaceRecognizer.create()
 
-for item in os.listdir(path="face_yml"):
-        recog.read(f"face_yml/{item}")  
+if os.path.exists("face_yml/merged.yml"):
+    recog.read(f"face_yml/merged.yml")  
+    print("Loading merged.yml...")
+else:
+    Fname = input("Can't find merged.yml, please enter the YML file manually: ")
+    recog.read(f"face_yml/{Fname}")  
+    print(f"Loading {Fname}...")
 
 with mss.mss() as sct:
     monitor = sct.monitors[3]
@@ -19,15 +25,8 @@ with mss.mss() as sct:
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         faces = detector.detectMultiScale(gray)
 
-        name = {
-            '1': "Lai",
-            '2': "AsiaTon",
-            '3': "Tim Cook",
-            '4': "Kojima",
-            '5': "Tsai",
-            '6': "Kuo",
-            '7': "Xi"
-        }
+        with open('./face-list.json', 'r') as file:
+            name = json.load(file)
 
         for (x, y, w, h) in faces:
             cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 0), 2)
