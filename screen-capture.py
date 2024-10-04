@@ -5,6 +5,7 @@ import mss.tools
 import os
 import json
 
+print("Starting up the process...")
 detector = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 recog = cv2.face.LBPHFaceRecognizer.create()
 
