@@ -1,4 +1,4 @@
-# 🌟OpenCV Face Reconizer
+# 🌟OpenCV Face Recognizer
 ### File Description:
 - Crawl Image from Google search (crawl.py)
 - Training and feed data for bots to reconize (face-reconize.py)
