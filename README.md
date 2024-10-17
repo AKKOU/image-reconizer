@@ -7,8 +7,8 @@
 
 ### Yml File Download (over 100MB, Github file limit):
 
-#### Mixed version:
-- [Mixed Version (886 MB)](https://mega.nz/file/J5gnzJTZ#bLoBQgjM-lUv9nwG9dv1HE6mwz51mJvf9gG89X2FdYI)
+#### Mixed version (Tim Cook & Asia-God-Ton):
+- [Mixed Version (419 MB)](https://mega.nz/file/05R3SKQZ#oVgmYy0TGCRCKiyQv33qFlz8KdTJ_7UFxeE4Ink0JHs)
 
 #### Individual person:
 - [Ching-te Lai (474 MB)](https://mega.nz/file/Y84D2IoL#jgVmVBxwCWaoca2TjbbC9IFMOrTb1gQJASwSyB3SOSw)
