@@ -11,8 +11,9 @@
 - [Mixed Version (419 MB)](https://mega.nz/file/05R3SKQZ#oVgmYy0TGCRCKiyQv33qFlz8KdTJ_7UFxeE4Ink0JHs)
 
 #### Individual person:
-- [Ching-te Lai (474 MB)](https://mega.nz/file/Y84D2IoL#jgVmVBxwCWaoca2TjbbC9IFMOrTb1gQJASwSyB3SOSw)
-- [Asia-God-Ton (412 MB)](https://mega.nz/file/J4xQ2RTC#i4V7uOGFANyx7mbNWYNYj0Cv_U-rMuknaz2A83vNJAk)
+- [Ching-te Lai (149 MB)](https://mega.nz/file/MgpWwabL#r0va_Q1B3m4eLgpeaan2eoZeSUfKdQ8ew1K0r2z29ew)
+- [Asia-God-Ton (111 MB)](https://mega.nz/file/Js42nZoB#yJLXkbVyn0BTZdnXjADS51fKT7z1aKAhhVUIX7DZ2S8)
+- [Tim-Cook (158.6 MB)](https://mega.nz/file/kgQB3YgC#qPZfAPhT5yDXSnzwQHky2YV6wdy3GKpR7wVk5OLMKSc)
 
 <br>
 
